@@ -36,27 +36,6 @@ Meu foco é aprender e evoluir sempre, explorando tanto o frontend quanto o back
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)    |                           |                        | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
 ---
-name: Atualizar perfil com Metrics
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_limit: 6
-          plugin_languages_details: bytes-size, percentage
-
----
 
 ## 💡 Skills em destaque
 
