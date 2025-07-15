@@ -1,15 +1,12 @@
 <h1 align="center">Bem vindo, LiL Bro 👊</h1>
 
 <p align="center">
-  <a href="https://github.com/NetoDie" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.instagram.com/netonunes1408/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
   <a href="mailto:Nunesneto11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
- 
   </a>
 </p>
 
