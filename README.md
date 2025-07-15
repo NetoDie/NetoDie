@@ -19,13 +19,15 @@
 ---
 
     
-## 🧑‍💻 Sobre mim
+## 🧠 Quem sou eu?
 
 Sou estudante de Direito e desenvolvedor de software desde os 18 anos. Tenho grande interesse por tecnologia e procuro sempre unir lógica e criatividade nos meus projetos. Gosto especialmente de trabalhar com frontend, mas também exploro o backend, bancos de dados e novas linguagens de programação. Meu foco é aprender continuamente e evoluir como desenvolvedor, buscando soluções completas e eficientes.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🧰 Ferramentas que me acompanham
+
+Aqui estão as tecnologias que uso no meu dia a dia para criar, testar e publicar meus projetos:
 
 | Frontend                  | Backend                   | Banco de Dados          | Ferramentas                   |
 |---------------------------|---------------------------|------------------------|------------------------------|
