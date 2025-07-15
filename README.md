@@ -18,11 +18,10 @@
 
 ---
 
+    
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de Direito e desenvolvo software desde os 18 anos.  
-Gosto de estudar tecnologia e busco aplicar lógica e criatividade nos meus projetos.  
-Meu foco é aprender e evoluir sempre, explorando tanto o frontend quanto o backend, além de bancos de dados e novas linguagens.
+Sou estudante de Direito e desenvolvedor de software desde os 18 anos. Tenho grande interesse por tecnologia e procuro sempre unir lógica e criatividade nos meus projetos. Gosto especialmente de trabalhar com front-end, mas também exploro o back-end, bancos de dados e novas linguagens de programação. Meu foco é aprender continuamente e evoluir como desenvolvedor, buscando soluções completas e eficientes.
 
 ---
 
@@ -37,21 +36,12 @@ Meu foco é aprender e evoluir sempre, explorando tanto o frontend quanto o back
 
 ---
 
-## 💡 Skills em destaque
+<div>
+  <a href="https://github.com/NetoDie">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NetoDie&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoDie&layout=compact&langs_count=16&theme=radical"/>
+</div>
 
-### Frontend
-- HTML5, CSS3, JavaScript (ES6+), React
-
-### Backend
-- Node.js, Express
-
-### Banco de Dados
-- MongoDB, PostgreSQL
-
-### Ferramentas
-- Git, GitHub, VSCode, TailwindCSS
-
----
 
 ## 📂 Projetos em Destaque
 
