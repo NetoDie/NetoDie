@@ -24,7 +24,7 @@
 ## 🧑‍💻 Sobre mim
 
 Sou estudante de Direito e desenvolvo software desde os 18 anos.  
-Adoro estudar tecnologia e busco aplicar lógica e criatividade nos meus projetos.  
+Gosto de estudar tecnologia e busco aplicar lógica e criatividade nos meus projetos.  
 Meu foco é aprender e evoluir sempre, explorando tanto o frontend quanto o backend, além de bancos de dados e novas linguagens.
 
 ---
