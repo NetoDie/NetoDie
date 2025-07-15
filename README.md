@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo, LiL Bro</h1>
+<h1 align="center">Bem vindo, LiL Bro 👊</h1>
 
 <p align="center">
   <a href="https://github.com/NetoDie" target="_blank" rel="noopener noreferrer">
