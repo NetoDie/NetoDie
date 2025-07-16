@@ -21,7 +21,7 @@
     
 ## 🧠 Quem sou eu?
 
-Sou estudante de Direito e desenvolvedor de software desde os 18 anos. Tenho grande interesse por tecnologia e procuro sempre unir lógica e criatividade nos meus projetos. Gosto especialmente de trabalhar com frontend, mas também exploro o backend, bancos de dados e novas linguagens de programação. Meu foco é aprender continuamente e evoluir como desenvolvedor, buscando soluções completas e eficientes.
+Sou estudante de Direito e desenvolvedor de software desde os 17 anos. Tenho grande interesse por tecnologia e procuro sempre unir lógica e criatividade nos meus projetos. Gosto especialmente de trabalhar com frontend, mas também exploro o backend, bancos de dados e novas linguagens de programação. Meu foco é aprender continuamente e evoluir como desenvolvedor, buscando soluções completas e eficientes.
 
 ---
 
