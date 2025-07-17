@@ -41,7 +41,7 @@ Aqui estão as tecnologias que uso no meu dia a dia para criar, testar e publica
 <div>
   <a href="https://github.com/NetoDie">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NetoDie&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoDie&layout=compact&langs_count=16&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoDie&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 
