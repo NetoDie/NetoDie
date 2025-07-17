@@ -49,6 +49,7 @@ Aqui estão as tecnologias que uso no meu dia a dia para criar, testar e publica
 
 | Projeto                          | Descrição                             | Link                    |
 |---------------------------------|-------------------------------------|-------------------------|
+| Sistema solar 3D (JS)            | Sistema solar interativo e otimizado  | [Ver no GitHub](https://netodie.github.io/Sistema-Solar/) |
 | Mini Jogo de Reflexo (JS)        | Um jogo simples que mede seu tempo de resposta.   | [Ver no GitHub](https://netodie.github.io/Teste-de-Reflexo/ ) |
 | Calculadora (HTML)        | Uma calculadora simples que realiza as quatro operações básicas com visual limpo e interface intuitiva   | [Ver no GitHub](https://netodie.github.io/Calculadora-Simples/ ) |
 | Site Portfolio                   | Meu portfolio pessoal responsivo (Não publicado ainda)   | [Ver no GitHub](https://github.com/NetoDie/portfolio)          |
